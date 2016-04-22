@@ -1,0 +1,21 @@
+<div class="full">
+
+<form ng-submit="loginCtrl.login()">
+<div class="login">
+<div class="new-email">
+  <input type="text"  placeholder="Email" ng-model="loginCtrl.newUser.email">
+</div>
+  <div class="new-password">
+  <input type="password"  placeholder="Password" ng-model="loginCtrl.newUser.password">
+</div>
+<div class="new-login">
+  <input type="submit" value="Login">
+</div>
+
+</form>
+
+<div class="new-link">
+<a ui-sref="register">Register Page</a>
+</div>
+</div>
+</div>

@@ -1,39 +1,32 @@
 .full {
   background-color: gray;
   margin-top: 0;
-  height: 1000px;
-}
+  height: 1000px; }
 
 .register {
   margin: 0 auto;
   width: 500px;
-  height: 500px;
-}
+  height: 500px; }
 
 .email input {
   margin-bottom: 40px;
-  font-size: 40px;
-}
+  font-size: 40px; }
 
 .password input {
   margin-bottom: 40px;
   font-size: 40px;
-  background-color: blue;
-}
+  background-color: blue; }
 
 .snap input {
   font-size: 40px;
   background-color: blue;
   box-shadow: 4px 4px 4px gold;
-  margin-bottom: 40px;
-}
+  margin-bottom: 40px; }
 
 .login-link a {
   font-size: 50px;
   color: blue;
-  text-shadow: 3px 3px 3px gold;
-
-}
+  text-shadow: 3px 3px 3px gold; }
 
 h1 {
   font-size: 100px;
@@ -41,8 +34,7 @@ h1 {
   color: blue;
   text-align: center;
   margin: 0;
-  margin-bottom: 40px;
-}
+  margin-bottom: 40px; }
 
 button {
   font-size: 30px;
@@ -50,35 +42,29 @@ button {
   width: 200px;
   margin-left: 550px;
   background-color: blue;
-  box-shadow: 2px 2px 2px gold;
-}
+  box-shadow: 2px 2px 2px gold; }
 
 .new-email input {
   margin-bottom: 40px;
-  font-size: 40px;
-}
+  font-size: 40px; }
 
 .new-password input {
   margin-bottom: 40px;
   font-size: 40px;
-  background-color: blue;
-}
+  background-color: blue; }
 
 .new-login input {
   font-size: 40px;
   background-color: blue;
   box-shadow: 4px 4px 4px gold;
-  margin-bottom: 40px;
-}
+  margin-bottom: 40px; }
 
 .login {
   margin: 0 auto;
   width: 500px;
-  height: 500px;
-}
+  height: 500px; }
 
 .new-link a {
   font-size: 50px;
   color: blue;
-  text-shadow: 3px 3px 3px gold;
-}
+  text-shadow: 3px 3px 3px gold; }
